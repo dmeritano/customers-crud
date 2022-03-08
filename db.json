@@ -1,0 +1,60 @@
+{
+  "customers": [
+    {
+      "name": "David Meritano",
+      "company": "IPSA",
+      "email": "dmeritano@hotmail.com",
+      "telephone": "1550505020",
+      "notes": "Ningúna nota.",
+      "id": 1
+    },
+    {
+      "name": "Roberto Ramirez",
+      "company": "ADDALIA",
+      "email": "ipsa@hotmail.com",
+      "telephone": "30303030",
+      "notes": "Addalia Empresa",
+      "id": 2
+    },
+    {
+      "name": "Josefa Lopez",
+      "company": "VISA",
+      "email": "visa@visa.com",
+      "telephone": "45454535",
+      "notes": "VISA Argentina",
+      "id": 3
+    },
+    {
+      "name": "Nadia Lopez",
+      "company": "MASTERCARD",
+      "email": "master@card.net",
+      "telephone": "011323432",
+      "notes": "Mastercard USA",
+      "id": 4
+    },
+    {
+      "name": "Rana Loca",
+      "company": "AMEX",
+      "email": "amex@verde.net",
+      "telephone": "32424",
+      "notes": "American Express",
+      "id": 5
+    },
+    {
+      "name": "Roberto Ramirez",
+      "company": "CLARO S.A",
+      "email": "clarete@note.com",
+      "telephone": "234234234",
+      "notes": "",
+      "id": 6
+    },
+    {
+      "name": "Jacinta Pichimahuida",
+      "company": "PERSONAL TELECOM",
+      "email": "rada@nado.com",
+      "telephone": "",
+      "notes": "",
+      "id": 7
+    }
+  ]
+}
