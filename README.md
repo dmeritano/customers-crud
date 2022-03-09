@@ -22,7 +22,7 @@ Live Demo(*) [Here](https://dmeritano-customers-crud.netlify.app)
 
 ### json-server 
 
-Para usar json-server localmente, hacer los siguiente:
+To use json-server locally, do the following::
 
 ```properties
    npm install -g json-server
