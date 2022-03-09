@@ -6,7 +6,7 @@ const Home = () => {
   useEffect(() => {
     const getCustomers = async () => {
       try {
-        const url = "http://localhost:4000/customers"
+        const url = import.meta.env.VITE_CUSTOMERS_API_URL
         const response = await fetch(url)
         const result = await response.json()
         setCustomers(result)

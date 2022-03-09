@@ -9,9 +9,6 @@ import Public from "./pages/Public"
 
 function App() {
 
-  console.log(import.meta.env)
-  console.log(import.meta.env.VITE_CUSTOMERS_API_URL)
-
   return (
     <BrowserRouter>
       <Routes>
