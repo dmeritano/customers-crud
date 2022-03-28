@@ -2,6 +2,8 @@
 
 `React` application that simulates a customer CRUD, using `json-server` as backend. Application structure created with `Vite`
 
+<u>**Deployed application URL**</u> [DCS App](https://dmeritano-customers-crud.netlify.app)
+
 ## App insights
 
 * React **v17**
